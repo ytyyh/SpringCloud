@@ -1,0 +1,3 @@
+# Project exclude paths
+/spring-cloud-alibaba-nacos-consumer/target/
+/spring-cloud-alibaba-nacos-provider/target/
